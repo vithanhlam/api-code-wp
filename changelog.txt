@@ -1,0 +1,23 @@
+************************
+Author: Vi Văn Lâm
+FB: https://fb.com/vithanhlam
+Web: https://code-wp.com
+************************
+******CODE**WP**********
+************************
+************************
+************************
+----1.1.9---
+* Tối ưu mã nguồn
+
+----1.0.9---
+* Thêm function seo get và update
+* Thêm get ghi chú trong phần đơn hàng
+* Đồng bộ với bản 1.0.8 của App
+* Bỏ tilte trong phần editor
+* Thêm update page
+
+----1.0.8---
+* Thay đổi function upload hình ảnh
+* Sửa một số lỗi về đơn hàng
+* Sửa lỗi sản phẩm có biến thể hiển thị sai
